@@ -1,5 +1,5 @@
 # Adept-CIM-post-processor-Fusion-360
-cps file for Fusion 360 CAM for an Adept CIM Mill
+cps file for Fusion 360 CAM for the Adept CIM Mill
 
 Auto generates Start and end code for the CIM 
 Reads spindle speed and tool name from F360.
