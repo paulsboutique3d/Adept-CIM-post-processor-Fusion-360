@@ -6,4 +6,4 @@ Reads spindle speed and tool name from F360. <br>
 Edit the G50 XYZ to suit your machine before running the Gcode in the Adept Mill software.<br>
 
 Suggested speeds for this machine <br>
-To be updated
+Go Slow
